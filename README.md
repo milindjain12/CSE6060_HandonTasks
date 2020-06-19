@@ -18,3 +18,6 @@ This notebook contains the task of the 3rd Hands-On class, where we get to know 
 
 ### 6. Plagarism_Task.ipynb
 This notebook contains the task for plagarism check but it is still a work in progress, it contains the work which I did until now.
+
+### 6. (Hands On Session)19-06-2020.ipynb.ipynb
+This notebooks contains tasks i.e. 1. Downloading Getty's Address, 2. Removing Stop Words from the address, 3. extracting bigrams and 4. Extracting collocations in as a team.
