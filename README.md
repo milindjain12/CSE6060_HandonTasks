@@ -21,3 +21,6 @@ This notebook contains the task for plagarism check but it is still a work in pr
 
 ### 6. (Hands On Session)19-06-2020.ipynb.ipynb
 This notebooks contains tasks i.e. 1. Downloading Getty's Address, 2. Removing Stop Words from the address, 3. extracting bigrams and 4. Extracting collocations in as a team.
+
+### 7. Exploring TextBlob.ipynb
+In this jupyter notebook, I have explored various features provided by TextBlob library for NLP tasks like Tokenization, part-of-speech tagging, Lemmatization, WordNetIntegration, Sentimental Analysis etc.
