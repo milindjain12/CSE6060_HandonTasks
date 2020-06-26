@@ -36,4 +36,19 @@ In this jupyter notebook, I have explored various features provided by TextBlob 
 etc.
 
 ### 8. Using Using StanfordNLP(Stanza) Lib.ipynb
-This jupyter notebook explores various function like tokenization, pos tagging, lemmatization, dependency parsing on a hindi corpus downloaded from internet using Stanza library (<b>StandfordNLP</b> library renamed to <b>Stanza</b>)
+This jupyter notebook explores various function like tokenization, pos tagging, lemmatization, dependency parsing on a <b>Hindi</b> corpus downloaded from internet using Stanza library (<b>StandfordNLP</b> library renamed to <b>Stanza</b>)
+
+### 9. Embeddings.ipynb
+In this notebook, worked an example of how to do <b>Word2Vec</b> embedding and in this I scraped a news article from a website (<a href="https://theprint.in/ilanomics/this-recession-is-different-india-can-bounce-back-much-faster-than-in-the-past/439612/">Link</a>).
+
+### 10. LOR_Chunking.ipynb
+In this notebook, implemented chunking on sample LOR documents.
+
+### 11.WebScrapping_getting NER.ipynb
+In this notebook, scrapped a news article from the <a href="https://theprint.in/ilanomics/this-recession-is-different-india-can-bounce-back-much-faster-than-in-the-past/439612/">Link</a> and found <b>NER (Named Entity Relationship)</b> using <b>spacy</b> and <b>nltk</b>.
+
+### 12. Sentiment Analysis on Movie Reviews Using Logistic Regression.ipynb
+This notebook contains the content of Hands on session on 26-06-2020 in which we saw how to do sentimental analysis on movie reviews <a href="https://www.kaggle.com/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews">(Dataset)</a> end to end with storing model into a pickle file.
+
+### 13. Use Spacy.ipynb
+This notebook contains just an example of how to implement NER using spacy library.
