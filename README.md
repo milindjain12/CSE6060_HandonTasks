@@ -19,14 +19,14 @@ This notebook contains the task of the 3rd Hands-On class, where we get to know 
 ### 6. Plagarism_Task.ipynb
 This notebook contains the task for plagarism check but it is still a work in progress, it contains the work which I did until now.
 
-### 6. (Hands On Session)19-06-2020.ipynb.ipynb
+### 7. (Hands On Session)19-06-2020.ipynb.ipynb
 This notebooks contains tasks i.e. 
  1. <b>Downloading Getty's Address</b> 
  2. <b>Removing Stop Words from the address</b>
  3. <b>Extracting bigrams</b>
  4. <b>Extracting collocations in as a team</b>
 
-### 7. Exploring TextBlob.ipynb
+### 8. Exploring TextBlob.ipynb
 In this jupyter notebook, I have explored various features provided by TextBlob library for NLP tasks like 
 1. <b>Tokenization</b>
 2. <b>part-of-speech tagging</b>
@@ -35,20 +35,24 @@ In this jupyter notebook, I have explored various features provided by TextBlob 
 5. <b>Sentimental Analysis</b>
 etc.
 
-### 8. Using Using StanfordNLP(Stanza) Lib.ipynb
-This jupyter notebook explores various function like tokenization, pos tagging, lemmatization, dependency parsing on a <b>Hindi</b> corpus downloaded from internet using Stanza library (<b>StandfordNLP</b> library renamed to <b>Stanza</b>)
+### 9. Using Using StanfordNLP(Stanza) Lib.ipynb
+This jupyter notebook explores various function like tokenization, pos tagging, lemmatization, dependency parsing on a <b>Hindi</b> corpus downloaded from internet using Stanza library (<b>StanfordNLP</b> library renamed to <b>Stanza</b>)
 
-### 9. Embeddings.ipynb
+<b>Applications</b>
+<li><b>StanfordNLP</b> is derived from <b>CoreNLP</b> library which is a industry standard library and is written in Java so it will be a good fit with Chatbots like Google Assistant etc in Regional Language specially for rural areas of India as most people in rural area have their own version of regional language which will help them in farming and there daily day to day lifes. As StanfordNLP comes with out of the box support for 53 languages from around the world, so it will be a seamless integration.</li>
+<li>Another application can be analysing content on social media and other websites as most of the content on these websites is in regional language, so it will we really helpful in tackling fake news and other illegal activites on internet which might go unnoticed if someone does it manually.</li>
+
+### 10. Embeddings.ipynb
 In this notebook, worked an example of how to do <b>Word2Vec</b> embedding and in this I scraped a news article from a website (<a href="https://theprint.in/ilanomics/this-recession-is-different-india-can-bounce-back-much-faster-than-in-the-past/439612/">Link</a>).
 
-### 10. LOR_Chunking.ipynb
+### 11. LOR_Chunking.ipynb
 In this notebook, implemented chunking on sample LOR documents.
 
-### 11.WebScrapping_getting NER.ipynb
+### 12.WebScrapping_getting NER.ipynb
 In this notebook, scrapped a news article from the <a href="https://theprint.in/ilanomics/this-recession-is-different-india-can-bounce-back-much-faster-than-in-the-past/439612/">Link</a> and found <b>NER (Named Entity Relationship)</b> using <b>spacy</b> and <b>nltk</b>.
 
-### 12. Sentiment Analysis on Movie Reviews Using Logistic Regression.ipynb
+### 13. Sentiment Analysis on Movie Reviews Using Logistic Regression.ipynb
 This notebook contains the content of Hands on session on 26-06-2020 in which we saw how to do sentimental analysis on movie reviews <a href="https://www.kaggle.com/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews">(Dataset)</a> end to end with storing model into a pickle file.
 
-### 13. Use Spacy.ipynb
+### 14. Use Spacy.ipynb
 This notebook contains just an example of how to implement NER using spacy library.
