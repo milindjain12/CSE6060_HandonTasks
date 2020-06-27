@@ -58,6 +58,6 @@ This notebook contains the content of Hands on session on 26-06-2020 in which we
 This notebook contains just an example of how to implement NER using spacy library.
 
 ### Papers Referred on Regional Language (Hindi)
-[1]. Gaikwad, Vijay, and Yashodhara Haribhakta. "Adaptive GloVe and FastText Model for Hindi Word Embeddings." In Proceedings of the 7th ACM IKDD CoDS and 25th COMAD, pp. 175-179. 2020.
-[2]. Jha, Vikas Kumar, P. Hrudya, P. N. Vinu, Vishnu Vijayan, and P. Prabaharan. "DHOT-Repository and Classification of Offensive Tweets in the Hindi Language." Procedia Computer Science 171 (2020): 2324-2333.
-[3]. Sharma, Richa, Sudha Morwal, Basant Agarwal, Ramesh Chandra, and Mohammad S. Khan. "A deep neural network-based model for named entity recognition for Hindi language." Neural Computing and Applications (2020): 1-13.
+<ul>[1]. Gaikwad, Vijay, and Yashodhara Haribhakta. "Adaptive GloVe and FastText Model for Hindi Word Embeddings." In Proceedings of the 7th ACM IKDD CoDS and 25th COMAD, pp. 175-179. 2020.</ul>
+<ul>[2]. Jha, Vikas Kumar, P. Hrudya, P. N. Vinu, Vishnu Vijayan, and P. Prabaharan. "DHOT-Repository and Classification of Offensive Tweets in the Hindi Language." Procedia Computer Science 171 (2020): 2324-2333.</ul>
+<ul>[3]. Sharma, Richa, Sudha Morwal, Basant Agarwal, Ramesh Chandra, and Mohammad S. Khan. "A deep neural network-based model for named entity recognition for Hindi language." Neural Computing and Applications (2020): 1-13.</ul>
